@@ -18,5 +18,5 @@ A new flutter plugin project.
   s.dependency 'FBSDKCoreKit'
   s.dependency 'FBSDKShareKit'
 
-  s.platform = :ios, '9.0' 
+  s.platform = :ios, '11.0'
 end
